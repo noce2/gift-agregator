@@ -1,0 +1,19 @@
+{
+  "name": "gift-agregator",
+  "version": "1.0.0",
+  "description": "\"A collaboration platform for searching and comparing items across multiple e-commerce sites.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noce2/gift-agregator.git"
+  },
+  "author": "Nsikan Essien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noce2/gift-agregator/issues"
+  },
+  "homepage": "https://github.com/noce2/gift-agregator#readme"
+}
